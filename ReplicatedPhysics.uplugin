@@ -1,0 +1,25 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "Replicated Physics",
+	"Description" : "Replicated Physics",
+	"Category" : "Physics",
+	"CreatedBy" : "Hitbox Games, LLC.",
+	"CreatedByURL" : "http://hitbox.games",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : true,
+	"CanContainContent" : true,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules" : 
+	[
+		{
+			"Name": "ReplicatedPhysics",
+			"Type": "Runtime",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
